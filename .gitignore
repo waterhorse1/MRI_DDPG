@@ -1,0 +1,16 @@
+DAGAN
+*.log
+*logs*
+actions/
+analysis/
+model/
+mask/
+logs/
+pixelRL*
+__pycache__
+pytorch-a2c-ppo-acktr-gail
+*.bmp
+*.jpg
+*.png
+*.zip
+*.py_
